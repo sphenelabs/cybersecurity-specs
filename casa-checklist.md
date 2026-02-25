@@ -1,5 +1,7 @@
 # Cloud Application Security Assessment (CASA) Self-Assessment Questionnaire (SAQ) From [TAC Security](https://tacsecurity.com/)
 
+For each, go through the codes to verify yes or no. If yes, write a brief and technical justification. If no, suggest action points. Save all results in an md with AI model, commit version and scanned date in the file and the filename.
+
 1. Verify documentation and justification of all the application's trust boundaries, components, and significant data flows.
 
 2. Verify the application does not use unsupported, insecure, or deprecated client-side technologies such as NSAPI plugins, Flash, Shockwave, ActiveX, Silverlight, NACL, or client-side Java applets.
